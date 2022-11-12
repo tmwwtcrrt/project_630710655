@@ -1,4 +1,4 @@
-class Converter {
+class CurrencyConverter {
   static double THB2USD(double value){
     return (value * 0.03);
   }
